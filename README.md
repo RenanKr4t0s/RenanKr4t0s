@@ -6,10 +6,10 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@renandevramos.com?Subject=Contato_RdevR)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ramos-da-silva-05637118b/)
 
-<div style ="margin: 1rem;">
+<div style ="margin: 20px;">
   <a href="https://github.com/RenanKr4t0s">
-  <img style ="margin: .5rem;" height="170em" src="https://github-readme-stats.vercel.app/api?username=RenanKr4t0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style ="margin: .5rem;" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanKr4t0s&layout=compact&langs_count=7&theme=dark"/>
+  <img style ="margin: 15px;" height="170em" src="https://github-readme-stats.vercel.app/api?username=RenanKr4t0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style ="margin: 15px;" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanKr4t0s&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Minha Stack:
@@ -22,10 +22,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Visite meu Site!!
-<a href="https://www.renandevramos.com.br">
-    <div style="background-color:#ccfd54; padding: .5rem 1rem; border-radius:10px; width:12em;">
-        <img src="https://www.renandevramos.com.br/Assets/All%20blue.png">
-    </div>
-</a>
+[![site](https://www.renandevramos.com.br/Assets/All%20blue.png)](https://www.renandevramos.com.br)
 
 
